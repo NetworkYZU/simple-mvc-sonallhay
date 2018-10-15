@@ -3,7 +3,7 @@
     Created on : Sep 24, 2018, 7:35:46 AM
     Author     : lendle
 --%>
-
+<%@page import="lendle.courses.network.simplemvc.Student"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>I don't know you~</h1>
     </body>
 </html>
