@@ -23,7 +23,11 @@ public class BankCustomer {
         this.lastName = lastName;
         this.balance = balance;
     }
-
+    
+    public BankCustomer(){
+    
+    }
+    
     public String getId() {
         return id;
     }
